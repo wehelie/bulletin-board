@@ -1,0 +1,10 @@
+div.board {
+	width: 100%;
+}
+
+div.note {
+	max-width: 100%;
+	heigh: 400px;
+	
+	margin: 20px;
+}
