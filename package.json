@@ -1,5 +1,6 @@
 {
   "name": "bulletin-board",
+   "homepage" : "http://wehelie.github.io/note",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
