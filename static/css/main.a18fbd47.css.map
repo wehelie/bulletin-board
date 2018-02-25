@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,UACC,UAAY,CAGb,SACC,eACA,YAEA,WAAa","file":"static/css/main.a18fbd47.css","sourcesContent":["div.board {\n\twidth: 100%;\n}\n\ndiv.note {\n\tmax-width: 100%;\n\theigh: 400px;\n\t\n\tmargin: 20px;\n}\n\n\n// WEBPACK FOOTER //\n// ./src/index.css"],"sourceRoot":""}
