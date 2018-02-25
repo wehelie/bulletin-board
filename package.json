@@ -2,7 +2,7 @@
   "name": "bulletin-board",
    "predeploy": "npm run build",
    "deploy": "gh-pages -b master -d build",
-  "homepage": "http://wehelie.github.io/note",
+  "homepage": "https://wehelie.github.io/note",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
